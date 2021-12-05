@@ -7,19 +7,21 @@
 body { 
     font-size: 16px; 
     line-height: 32px;
+    padding: 2.5rem 1px ;    
     font-family:Ubuntu,sans-serif;
-    color:#0b0c0b;
+    color:#000000;
+    
 }
 
 h1 {
     font-size: 2rem;
-    color:#321236;
+    color:#000000;
 }
 
 h2 {
     font-size: 1.5rem;
     text-align: center;
-    border-bottom: 2px solid #bbb;
+    border-bottom: 2px solid rgba(153, 21, 87, 0.418);
 }
 
 header, main, footer {
@@ -30,12 +32,13 @@ header, main, footer {
 
 header, footer, footer a {
     text-align: center;
-    background-color:#8A6694;
-    color: whitesmoke;
+    background-color:rgb(83, 13, 46);
+    color: rgb(255, 255, 255);
 }
 
 header img {
     width: 150px;
+    padding: 2.5rem 1px ;    
     height: auto;
     float: right;
 }

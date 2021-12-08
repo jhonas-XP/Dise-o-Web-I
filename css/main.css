@@ -4,10 +4,7 @@
 
 /* { margin: 0; box-sizing: border-box; } */
 
-body { 
-    background: url('imagenes/1.jpg');
-    background-color: rgba(240, 183, 183, 0.986);
-    background-repeat: no-repeat;
+body {     
     font-size: 16px; 
     line-height: 32px;
     padding: 2.5rem 1px ;    

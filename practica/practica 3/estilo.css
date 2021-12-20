@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap");
+body
+{
+    background: rgb(100, 90, 86);
+    font-family: 'Noto Serif', serif;    
+}
+h1 
+{
+    text-align: center;
+    font-size: 40px;
+    text-decoration:underline purple;
+}
+.formulario
+{
+   background: rgba(8, 181, 187, 0.281);
+   width: 800px;
+   margin: 20px auto;
+   padding: 20px;
+   border-radius: 15px; 
+   border: 2px groove black;   
+}
+input, select, textarea
+{
+    padding: 8px ; 
+    border: 2.5px groove black;
+    border-radius: 6px;
+    
+}
+body label 
+{
+    padding: 8px;
+    color: black;
+    font-weight: bold;
+    
+}
+p
+{   
+    font-weight: bold;
+    font-size: 22px;
+    text-align: center;
+}
+h2 p
+{   
+    margin-top: 400px;
+    font-size: 50px;
+    border: 5px solid black;
+    border-radius: 14px;
+    background: rgba(8, 181, 187, 0.281);
+}
